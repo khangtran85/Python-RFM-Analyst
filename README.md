@@ -15,5 +15,13 @@ To solve this challenge, the Data Analysis team has been asked to assist in impl
 
 - *Enhance Efficiency:* Enable SuperStore’s team to handle large datasets and perform segmentation faster and more accurately compared to manual methods.
 # Processing
-
+## EDA:
+``` python
+!pip install dataprep
+from dataprep.eda import create_report
+create_report(ecomerce_retail)
+```
+## Handle data (mising data, outlier data and error data):
+## Classify customers according to the RFM model:
+## Visualization of the RFM model
 # Recomendation
