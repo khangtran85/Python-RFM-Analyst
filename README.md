@@ -125,4 +125,5 @@ choicelist2 = ["Champions", "Loyal", "Potential Loyalist", "New Customers", "Pro
 DF3["CustomerType"] = np.select(condlist2, choicelist2)
 ```
 ## Visualization of the RFM model
+
 # Recomendation
